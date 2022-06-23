@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pzfx"]
+	path = pzfx
+	url = https://github.com/yue-jiang/pzfx
+	shallow = true
+	registered = true
